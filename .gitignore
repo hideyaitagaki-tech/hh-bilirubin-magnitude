@@ -1,0 +1,9 @@
+# Exported cohort tables. These are derived from MIMIC-IV and eICU-CRD and
+# must not be committed: the PhysioNet data use agreement does not permit
+# redistribution, and a list of the admissions in a cohort is derived data.
+data/
+output/
+
+__pycache__/
+*.pyc
+.DS_Store
